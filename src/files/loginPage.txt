@@ -11,3 +11,7 @@ new image
 ...
 
 ..
+
+updating with new logo
+
+special message
